@@ -38,8 +38,8 @@
         return $this->prezzo * 0.22;
     }
 }
-    // ...
-}
+    
+
     class Prodotto{
         public $immagine;
         public $nome;
